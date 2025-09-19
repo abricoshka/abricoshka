@@ -23,7 +23,7 @@
 
 ### 🚀 Activity
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abricoshka&theme=tokyonight" alt="GitHub Streak" height="180"/>
+  <img src="https://streak-stats.demolab.com?user=abricoshka&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
